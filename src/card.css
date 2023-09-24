@@ -1,0 +1,15 @@
+
+  
+  .card {
+  display: flex;
+  flex-direction: row;
+  margin-left: 270px;
+  }
+  
+  h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+  }
+
+  

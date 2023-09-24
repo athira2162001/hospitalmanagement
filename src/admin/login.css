@@ -1,0 +1,29 @@
+.log{
+    margin-block: 100px;
+    width: 90rem;
+    height: 60rem;
+}
+
+
+.hi{
+    margin-top: -552px;
+    margin-left: 660px;
+}
+.img{
+    width: 85rem;
+    height: 45rem;
+    margin-top: -100px;
+}
+.but{
+    border-radius: 10px;
+    background-color: rgb(158, 175, 175);
+    margin-left: 110px;
+    margin-top: 20px;
+    width: 110px;
+    height: 40px;
+    text-decoration:none;
+    text-align: center;
+    color: black;
+    border-color: black;
+   
+}
